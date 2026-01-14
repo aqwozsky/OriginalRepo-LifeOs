@@ -89,5 +89,5 @@ GitHub: https://github.com/aqwozsky
 
 ---
 
-> LifeOS is not just software.  
-> It’s a system that grows with you.
+> LifeOS is just a software for testing. It's not a real operating system.  
+> It’s a software grows with you.
