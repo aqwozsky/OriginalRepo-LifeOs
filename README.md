@@ -8,7 +8,7 @@
 ## ✨ What is LifeOS?
 
 **[LifeOS](https://github.com/aqwozsky/LifeOs)** is a modular, extensible system designed to evolve with its user.  
-Think of it as a personal operating system for tools, workflows, and automation.
+Think of it as a personal operating system simulation for tools, workflows, and automation.
 
 This repository serves as the **official and original package source** for LifeOS.
 
